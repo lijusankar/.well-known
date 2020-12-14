@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.commissionerapp",
+    "sha256_cert_fingerprints":
+    ["9E:57:CB:6F:97:35:6D:32:4E:C8:F8:A5:86:9E:DF:A3:D3:7A:0C:BB:B3:22:AA:7B:9C:46:BB:A6:9D:EA:06:FE"]
+  }
+}]
